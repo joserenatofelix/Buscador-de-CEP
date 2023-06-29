@@ -1,6 +1,6 @@
-#<p align="center"> BUSCADOR DE CEP</p>
+#align="center" BUSCADOR DE CEP
 
-<br/>buscador-de-cep-alpha-roan.vercel.app 
+buscador-de-cep-alpha-roan.vercel.app 
 
 <div align="center"><img height="500em" src="./img/Tela%20do%20busca%20cep.png"/></div>
 
